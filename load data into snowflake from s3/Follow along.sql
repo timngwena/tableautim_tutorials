@@ -41,7 +41,7 @@ copy into customer_table from (
                                 t);
 
 
-//Load into the table Firest example
+//Load into the table Second example
 create table customer_tablev2 (
     ID INT,
     first_name varchar,
