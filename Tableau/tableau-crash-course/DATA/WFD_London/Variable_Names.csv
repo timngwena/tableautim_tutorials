@@ -1,0 +1,42 @@
+Name,Label
+COUNTRY,Country
+RBD_NAME,River Basin District
+AREA_NAME,EA Area Name
+MNCAT_NAME,Management Catchment
+OPCAT_NAME,Operational Catchment
+WB_ID,Water Body ID
+WB_NAME,Water Body Name
+WB_CAT,Water Body Category
+HMD_NAME,Modified Waters Designation
+OV_CLASS,Overall Water Body Class
+ECO_CLASS,Ecological Class
+ECO_LESS,Ecological Certainty Less than Good
+CHEM_CLASS,Chemical Class
+CHEM_LESS,Chemical Certainty Less than Good
+ANG_CLASS,Angiosperms Class
+CHI_CLASS,Chironomids Class
+FISH_CLASS,Fish Class
+INV_CLASS,Invertebrates Class
+LIT_CLASS,Littoral Invertebrates Class
+ALG_CLASS,Macroalgae Class
+COM_CLASS,Macrophytes & Phytobenthos Combined Class
+PHY_CLASS,Phytoplankton Blooms Class
+ANC_CLASS,Acid Neutralising Capacity Class
+AMM_CLASS,Ammonia (Phys-Chem) Class
+BOD_CLASS,Biological Oxygen Demand Class
+DIN_CLASS,Dissolved Inorganic Nitrogen Class
+DIS_CLASS,Dissolved oxygen Class
+PH_CLASS,pH Class
+PHO_CLASS,Phosphate Class
+SAL_CLASS,Salinity Class
+TEM_CLASS,Temperature Class
+TP_CLASS,Total Phosphorus Class
+PHS_CLASS,Priority Hazardous Substances Class
+PS_CLASS,Priority Substances Class
+OP_CLASS,Other Pollutants Class
+SP_CLASS,Specific Pollutants Class
+EXJ_CLASS,Expert Judgement Class
+REG_CLASS,Hydrological Regime Class
+MMA_CLASS,Mitigation Measures Assessment Class
+MOR_CLASS,Morphology Class
+ORAS_CLASS,Override element to modify overall classification based on presence of invasive non-native species
